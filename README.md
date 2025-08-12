@@ -53,8 +53,8 @@ Successfully captured and analyzed multiple protocols, gaining practical experie
 ## 📷 Screenshots
 <img width="1911" height="1073" alt="Screenshot 2025-08-12 092457" src="https://github.com/user-attachments/assets/bd207ba9-848e-4d4f-925e-0312d645209a" />
 
+<img width="1919" height="1008" alt="Screenshot 2025-08-12 092727" src="https://github.com/user-attachments/assets/c8678cf1-3945-41b9-887f-a1a60263602b" />
+
 
 ---
 
-**Author:** Sakshi Shetty  
-**Date:** August 2025
